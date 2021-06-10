@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebService</string>
+    <string-array name="transmisiones_array">
+        <item>Automatica</item>
+        <item>Manual</item>
+    </string-array>
+</resources>
